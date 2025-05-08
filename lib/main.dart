@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:resturant_app/views/home_page.dart'; 
+import 'package:resturant_app/views/home_page.dart';
 
 void main(List<String> args) {
   runApp(const MyApp());

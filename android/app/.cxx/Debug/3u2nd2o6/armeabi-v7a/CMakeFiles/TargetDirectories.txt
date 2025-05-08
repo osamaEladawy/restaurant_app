@@ -1,0 +1,2 @@
+E:/new_apps_vs/resturant_app/android/app/.cxx/Debug/3u2nd2o6/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/new_apps_vs/resturant_app/android/app/.cxx/Debug/3u2nd2o6/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+E:/new_apps_vs/resturant_app/android/app/.cxx/Debug/5b336w31/x86_64/CMakeFiles/edit_cache.dir
+E:/new_apps_vs/resturant_app/android/app/.cxx/Debug/5b336w31/x86_64/CMakeFiles/rebuild_cache.dir

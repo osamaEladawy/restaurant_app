@@ -28,7 +28,7 @@ class DisplayCategories extends StatelessWidget {
               child: Container(
                 alignment: Alignment.center,
                 margin: const EdgeInsets.symmetric(horizontal: 3),
-                width: ResponsiveScreen.screen_width * 0.20,
+                padding: EdgeInsets.symmetric(horizontal: 10, vertical: 5),
                 decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(10),
                     color: currentIndex == index ? Colors.grey : Colors.orange),
